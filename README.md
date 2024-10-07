@@ -17,7 +17,7 @@ In this task, I created a free virtual machine (VM) in my cloud account (AWS/GCP
 
 2. Clone the Repo from Taskten (HTML Page)
    - After logging into the VM, clone your tasktwelve repository from GitHub:
-     "git clone https://github.com/hazeenakhalid/task-12.git"
+     "git clone https://github.com/MasterNebula/task-12.git"
 
 3. Copy the Cloned Files to Apache Web Server Root Directory
    - Copy the HTML and related files from the cloned taskten folder to the root directory of the Apache web server:
