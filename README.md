@@ -59,7 +59,7 @@ In this task, I created a free virtual machine (VM) in my cloud account (AWS/GCP
    - Create a Database:
      a)."CREATE DATABASE user_registration;"
      b)."CREATE USER 'Alika'@'localhost' IDENTIFIED BY 'pswd123';
-        GRANT ALL PRIVILEGES ON user_registration.* TO 'webuser'@'localhost';
+        GRANT ALL PRIVILEGES ON user_registration.* TO 'Alika'@'localhost';
         FLUSH PRIVILEGES;"
      c)."USE user_registration;"
 
